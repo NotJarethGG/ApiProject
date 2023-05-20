@@ -1,0 +1,48 @@
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Dta\bin\Debug\net7.0\Dta.deps.json
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Dta\bin\Debug\net7.0\Dta.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Dta\bin\Debug\net7.0\Dta.pdb
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Dta\obj\Debug\net7.0\Dta.csproj.AssemblyReference.cache
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Dta\obj\Debug\net7.0\Dta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Dta\obj\Debug\net7.0\Dta.AssemblyInfoInputs.cache
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Dta\obj\Debug\net7.0\Dta.AssemblyInfo.cs
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Dta\obj\Debug\net7.0\Dta.csproj.CoreCompileInputs.cache
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Dta\obj\Debug\net7.0\Dta.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Dta\obj\Debug\net7.0\refint\Dta.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Dta\obj\Debug\net7.0\Dta.pdb
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Dta\obj\Debug\net7.0\ref\Dta.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Dta\bin\Debug\net7.0\Dta.deps.json
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Dta\bin\Debug\net7.0\Dta.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Dta\bin\Debug\net7.0\Dta.pdb
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Dta\obj\Debug\net7.0\Dta.csproj.AssemblyReference.cache
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Dta\obj\Debug\net7.0\Dta.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Dta\obj\Debug\net7.0\Dta.AssemblyInfoInputs.cache
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Dta\obj\Debug\net7.0\Dta.AssemblyInfo.cs
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Dta\obj\Debug\net7.0\Dta.csproj.CoreCompileInputs.cache
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Dta\obj\Debug\net7.0\Dta.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Dta\obj\Debug\net7.0\refint\Dta.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Dta\obj\Debug\net7.0\Dta.pdb
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Dta\obj\Debug\net7.0\ref\Dta.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Proyecto api\Api_proyect_progra4-master\Dta\bin\Debug\net7.0\Dta.deps.json
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Proyecto api\Api_proyect_progra4-master\Dta\bin\Debug\net7.0\Dta.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Proyecto api\Api_proyect_progra4-master\Dta\bin\Debug\net7.0\Dta.pdb
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Proyecto api\Api_proyect_progra4-master\Dta\obj\Debug\net7.0\Dta.csproj.AssemblyReference.cache
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Proyecto api\Api_proyect_progra4-master\Dta\obj\Debug\net7.0\Dta.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Proyecto api\Api_proyect_progra4-master\Dta\obj\Debug\net7.0\Dta.AssemblyInfoInputs.cache
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Proyecto api\Api_proyect_progra4-master\Dta\obj\Debug\net7.0\Dta.AssemblyInfo.cs
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Proyecto api\Api_proyect_progra4-master\Dta\obj\Debug\net7.0\Dta.csproj.CoreCompileInputs.cache
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Proyecto api\Api_proyect_progra4-master\Dta\obj\Debug\net7.0\Dta.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Proyecto api\Api_proyect_progra4-master\Dta\obj\Debug\net7.0\refint\Dta.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Proyecto api\Api_proyect_progra4-master\Dta\obj\Debug\net7.0\Dta.pdb
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Proyecto api\Api_proyect_progra4-master\Dta\obj\Debug\net7.0\ref\Dta.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Proyecto api\Proyecto api\Dta\bin\Debug\net7.0\Dta.deps.json
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Proyecto api\Proyecto api\Dta\bin\Debug\net7.0\Dta.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Proyecto api\Proyecto api\Dta\bin\Debug\net7.0\Dta.pdb
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Proyecto api\Proyecto api\Dta\obj\Debug\net7.0\Dta.csproj.AssemblyReference.cache
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Proyecto api\Proyecto api\Dta\obj\Debug\net7.0\Dta.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Proyecto api\Proyecto api\Dta\obj\Debug\net7.0\Dta.AssemblyInfoInputs.cache
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Proyecto api\Proyecto api\Dta\obj\Debug\net7.0\Dta.AssemblyInfo.cs
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Proyecto api\Proyecto api\Dta\obj\Debug\net7.0\Dta.csproj.CoreCompileInputs.cache
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Proyecto api\Proyecto api\Dta\obj\Debug\net7.0\Dta.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Proyecto api\Proyecto api\Dta\obj\Debug\net7.0\refint\Dta.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Proyecto api\Proyecto api\Dta\obj\Debug\net7.0\Dta.pdb
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Proyecto api\Proyecto api\Dta\obj\Debug\net7.0\ref\Dta.dll

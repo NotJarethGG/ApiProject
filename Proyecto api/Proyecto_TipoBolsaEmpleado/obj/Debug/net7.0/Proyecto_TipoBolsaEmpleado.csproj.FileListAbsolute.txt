@@ -1,0 +1,194 @@
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\appsettings.json
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Proyecto_TipoBolsaEmpleado.exe
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Proyecto_TipoBolsaEmpleado.deps.json
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Proyecto_TipoBolsaEmpleado.runtimeconfig.json
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Proyecto_TipoBolsaEmpleado.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Proyecto_TipoBolsaEmpleado.pdb
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Humanizer.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Dta.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Services.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Dta.pdb
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Services.pdb
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\Proyecto_TipoBolsaEmpleado.csproj.AssemblyReference.cache
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\Proyecto_TipoBolsaEmpleado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\Proyecto_TipoBolsaEmpleado.AssemblyInfoInputs.cache
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\Proyecto_TipoBolsaEmpleado.AssemblyInfo.cs
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\Proyecto_TipoBolsaEmpleado.csproj.CoreCompileInputs.cache
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\Proyecto_TipoBolsaEmpleado.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\Proyecto_TipoBolsaEmpleado.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\staticwebassets\msbuild.Proyecto_TipoBolsaEmpleado.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\staticwebassets\msbuild.build.Proyecto_TipoBolsaEmpleado.props
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto_TipoBolsaEmpleado.props
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Proyecto_TipoBolsaEmpleado.props
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\scopedcss\bundle\Proyecto_TipoBolsaEmpleado.styles.css
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\Proyecto_TipoBolsaEmpleado.csproj.CopyComplete
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\Proyecto_TipoBolsaEmpleado.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\refint\Proyecto_TipoBolsaEmpleado.dll
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\Proyecto_TipoBolsaEmpleado.pdb
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\Proyecto_TipoBolsaEmpleado.genruntimeconfig.cache
+C:\Users\chuch\Documents\Programacion_4\BolsaEmpleado\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\ref\Proyecto_TipoBolsaEmpleado.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\Proyecto_TipoBolsaEmpleado.csproj.AssemblyReference.cache
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\Proyecto_TipoBolsaEmpleado.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\Proyecto_TipoBolsaEmpleado.AssemblyInfoInputs.cache
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\Proyecto_TipoBolsaEmpleado.AssemblyInfo.cs
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\Proyecto_TipoBolsaEmpleado.csproj.CoreCompileInputs.cache
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\Proyecto_TipoBolsaEmpleado.MvcApplicationPartsAssemblyInfo.cs
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\Proyecto_TipoBolsaEmpleado.MvcApplicationPartsAssemblyInfo.cache
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\Proyecto_TipoBolsaEmpleado.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\refint\Proyecto_TipoBolsaEmpleado.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\Proyecto_TipoBolsaEmpleado.pdb
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\appsettings.Development.json
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\appsettings.json
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Proyecto_TipoBolsaEmpleado.exe
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Proyecto_TipoBolsaEmpleado.deps.json
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Proyecto_TipoBolsaEmpleado.runtimeconfig.json
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Proyecto_TipoBolsaEmpleado.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Proyecto_TipoBolsaEmpleado.pdb
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Azure.Core.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Azure.Identity.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Google.Protobuf.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Humanizer.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\MySql.Data.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\System.CodeDom.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\System.Memory.Data.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Dta.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Services.dll
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Dta.pdb
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\bin\Debug\net7.0\Services.pdb
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\staticwebassets\msbuild.Proyecto_TipoBolsaEmpleado.Microsoft.AspNetCore.StaticWebAssets.props
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\staticwebassets\msbuild.build.Proyecto_TipoBolsaEmpleado.props
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto_TipoBolsaEmpleado.props
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Proyecto_TipoBolsaEmpleado.props
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\staticwebassets.pack.json
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\staticwebassets.build.json
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\staticwebassets.development.json
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\scopedcss\bundle\Proyecto_TipoBolsaEmpleado.styles.css
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\Proyecto_TipoBolsaEmpleado.csproj.CopyComplete
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\Proyecto_TipoBolsaEmpleado.genruntimeconfig.cache
+D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\obj\Debug\net7.0\ref\Proyecto_TipoBolsaEmpleado.dll

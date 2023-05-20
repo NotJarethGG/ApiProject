@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Proyecto_TipoBolsaEmpleado
+build_property.RootNamespace = Proyecto_TipoBolsaEmpleado
+build_property.ProjectDir = D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\UNA\Primer Ciclo 2023\Progamacion IV\Api_proyect_progra4-master\Api_proyect_progra4-master\Proyecto_TipoBolsaEmpleado
+build_property._RazorSourceGeneratorDebug = 
